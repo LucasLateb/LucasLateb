@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucasLateb
   
-- I’m a final year Data Scientist student at Paris Nanterre University
+- I’m a final year Data Scientist student at ENSAE Paris - Institut Polytechnique
 
 - I'll upload here my interresting data science projects for you to take a quick look 
 
